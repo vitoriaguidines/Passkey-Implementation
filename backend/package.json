@@ -1,0 +1,26 @@
+{
+  "name": "teste-passkey",
+  "version": "1.0.0",
+  "description": "\"# Passkey-Implementation\" \r \"# Passkey-Implementation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoriaguidines/Passkey-Implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoriaguidines/Passkey-Implementation/issues"
+  },
+  "homepage": "https://github.com/vitoriaguidines/Passkey-Implementation#readme",
+  "dependencies": {
+    "@simplewebauthn/browser": "^13.1.0",
+    "@simplewebauthn/server": "^13.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
